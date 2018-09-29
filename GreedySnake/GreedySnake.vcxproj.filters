@@ -18,9 +18,18 @@
     <ClCompile Include="GreedySnake.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GDIRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Settings.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GDIRenderer.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

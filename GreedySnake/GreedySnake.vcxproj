@@ -151,10 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GDIRenderer.cpp" />
     <ClCompile Include="GreedySnake.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GDIRenderer.h" />
     <ClInclude Include="Settings.h" />
+    <ClInclude Include="Structs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
